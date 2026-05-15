@@ -44,24 +44,6 @@ Sum of all numbers from 1 to 3 is: 6
 
 ---
 
-## Technologies Used
-
-- Python 3
-
----
-
-## How to Run
-
-1. Install Python 3 on your system.
-2. Save the program file as `main.py`
-3. Open terminal or command prompt.
-4. Run the following command:
-
-```bash
-python main.py
-```
-
----
 
 ## Program Menu
 
