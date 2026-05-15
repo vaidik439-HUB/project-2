@@ -119,15 +119,5 @@ Pattern:
 
 ---
 
-## Future Improvements
-
-- Add more pattern types
-- Include prime number checking
-- Add menu looping enhancements
-- Add graphical interface (GUI)
-
----
-
-## Author
-
-Created using Python for learning loops, conditionals, and user input handling.
+## Exit Message:
+-Thank the user for using the student Data Organizer and displaying an exit message.
